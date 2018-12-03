@@ -1,4 +1,4 @@
 # JavaConcurrency
 
-## work in progress
+## work in progress...
 Concurrency in JAVA
